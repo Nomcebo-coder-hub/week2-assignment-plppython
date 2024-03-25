@@ -13,3 +13,7 @@ print("List2:" , even_numbers)
 my_list.extend(even_numbers)
 
 print("List after append:" , my_list)
+
+my_list = [10, 20, 30, 40]
+del my_list[3]
+print(my_list)
