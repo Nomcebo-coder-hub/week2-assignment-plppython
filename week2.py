@@ -9,6 +9,7 @@ print(my_list)
 my_list.append(15)
 print("After Append:" , my_list)
 
+# number 4
 my_list = [10, 20, 30, 40]
 print("List1:" , my_list)
 
@@ -19,11 +20,14 @@ my_list.extend(even_numbers)
 
 print("List after append:" , my_list)
 
+# number 5
 my_list = [10, 20, 30, 40]
 my_list.remove(40)
 print(my_list)
 
+# number 6
+my_list = [10, 20, 30, 40]
 
-
+# number 7
 my_list = [10, 20, 30, 40]
 print(my_list[2])
